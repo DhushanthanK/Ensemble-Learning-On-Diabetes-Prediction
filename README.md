@@ -1,4 +1,4 @@
-# Ensemble Learning: Bagging Tutorial
+# Ensemble Learning on diabetes prediction
 
 ## Overview
 
